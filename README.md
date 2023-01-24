@@ -104,9 +104,10 @@ After you're finished please remove all the comments and instructions!
 
 > Describe between 1-3 key features of the application.
 
-- **[create a table to store animals]**
-- **[insert some data into it]**
-- **[and query the data.]**
+- **[Animals table]** for store the pet info like name and date of birth.
+- **[query and update animals table]** to modify and get statistic data from animals table.
+- **[query multiple tables]** Add tables for Owners and Species, set foreign keys and do queries using JOIN's.
+- Add a schema diagram
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,7 +117,7 @@ After you're finished please remove all the comments and instructions!
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+<img src="DB-schema.png" alt="schema" width=""  height="auto" />
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -213,7 +214,12 @@ Example:
 
 - GitHub: [@Momotsow](https://github.com/momotsow)
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/khomotso-prudence-mkansi-aa7794b7/)
+  
+👤 **Luis Muñoz**
 
+- GitHub: [@lmunozm1702](https://github.com/lmunozm1702)
+- Email: [l.munoz.m@outlook.com](mailto:l.munoz.m@outlook.com)
+- Twitter: [@lmunozm1702](www.twitter.com/lmunozm1702)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
